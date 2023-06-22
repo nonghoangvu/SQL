@@ -1,0 +1,193 @@
+Người dùng 1:
+
+Tên: NGUYỄN VĂN A
+Giới tính: Nam
+Địa chỉ: SỐ 10, ĐƯỜNG TRẦN DUY HƯNG, QUẬN CẦU GIẤY
+Quận: CẦU GIẤY
+Số điện thoại: 0987654321
+Email: VAN.A@gmail.com
+Người dùng 2:
+
+Tên: TRẦN THỊ B
+Giới tính: Nữ
+Địa chỉ: SỐ 20, ĐƯỜNG NGUYỄN CHÍ THANH, QUẬN ĐỐNG ĐA
+Quận: ĐỐNG ĐA
+Số điện thoại: 0123456789
+Email: THI.B@gmail.com
+Người dùng 3:
+
+Tên: LÊ VĂN C
+Giới tính: Nam
+Địa chỉ: SỐ 30, ĐƯỜNG HAI BÀ TRƯNG, QUẬN HOÀN KIẾM
+Quận: HOÀN KIẾM
+Số điện thoại: 0909090909
+Email: VAN.C@gmail.com
+Người dùng 4:
+
+Tên: NGUYỄN THỊ D
+Giới tính: Nữ
+Địa chỉ: SỐ 40, ĐƯỜNG LÁNG, QUẬN ĐỐNG ĐA
+Quận: ĐỐNG ĐA
+Số điện thoại: 0912345678
+Email: THI.D@gmail.com
+Người dùng 5:
+
+Tên: PHẠM VĂN E
+Giới tính: Nam
+Địa chỉ: SỐ 50, ĐƯỜNG NGUYỄN VĂN CỪ, QUẬN LONG BIÊN
+Quận: LONG BIÊN
+Số điện thoại: 0987123456
+Email: VAN.E@gmail.com
+Người dùng 6:
+
+Tên: TRẦN THỊ F
+Giới tính: Nữ
+Địa chỉ: SỐ 60, ĐƯỜNG NGUYỄN TRÃI, QUẬN THANH XUÂN
+Quận: THANH XUÂN
+Số điện thoại: 0909090909
+Email: THI.F@gmail.com
+Người dùng 7:
+
+Tên: HOÀNG VĂN G
+Giới tính: Nam
+Địa chỉ: SỐ 70, ĐƯỜNG HỒ TÙNG MẬU, QUẬN CẦU GIẤY
+Quận: CẦU GIẤY
+Số điện thoại: 0912345678
+Email: VAN.G@gmail.com
+Người dùng 8:
+
+Tên: NGUYỄN THỊ H
+Giới tính: Nữ
+Địa chỉ: SỐ 80, ĐƯỜNG ĐỘI CẤN, QUẬN BA ĐÌNH
+Quận: BA ĐÌNH
+Số điện thoại: 0987123456
+Email: THI.H@gmail.com
+Người dùng 9:
+
+Tên: LÊ VĂN I
+Giới tính: Nam
+Địa chỉ: SỐ 90, ĐƯỜNG PHẠM HÙNG, QUẬN NAM TỪ LIÊM
+Quận: NAM TỪ LIÊM
+Số điện thoại: 0909090909
+Email: VAN.I@gmail.com
+Người dùng 10:
+
+Tên: PHẠM THỊ K
+Giới tính: Nữ
+Địa chỉ: SỐ 100, ĐƯỜNG NGUYỄN VĂN LINH, QUẬN HÀ ĐÔNG
+Quận: HÀ ĐÔNG
+Số điện thoại: 0912345678
+Email: THI.K@gmail.com
+Người dùng 11:
+
+Tên: TRẦN VĂN L
+Giới tính: Nam
+Địa chỉ: SỐ 110, ĐƯỜNG PHẠM HÙNG, QUẬN NAM TỪ LIÊM
+Quận: NAM TỪ LIÊM
+Số điện thoại: 0987123456
+Email: VAN.L@gmail.com
+Người dùng 12:
+
+Tên: NGUYỄN THỊ M
+Giới tính: Nữ
+Địa chỉ: SỐ 120, ĐƯỜNG TRẦN DUY HƯNG, QUẬN CẦU GIẤY
+Quận: CẦU GIẤY
+Số điện thoại: 0909090909
+Email: THI.M@gmail.com
+Người dùng 13:
+
+Tên: LÊ VĂN N
+Giới tính: Nam
+Địa chỉ: SỐ 130, ĐƯỜNG LÊ VĂN LƯƠNG, QUẬN THANH XUÂN
+Quận: THANH XUÂN
+Số điện thoại: 0912345678
+Email: VAN.N@gmail.com
+Người dùng 14:
+
+Tên: PHẠM THỊ O
+Giới tính: Nữ
+Địa chỉ: SỐ 140, ĐƯỜNG NGUYỄN VĂN CỪ, QUẬN LONG BIÊN
+Quận: LONG BIÊN
+Số điện thoại: 0987123456
+Email: THI.O@gmail.com
+Người dùng 15:
+
+Tên: HOÀNG VĂN P
+Giới tính: Nam
+Địa chỉ: SỐ 150, ĐƯỜNG PHẠM HÙNG, QUẬN NAM TỪ LIÊM
+Quận: NAM TỪ LIÊM
+Số điện thoại: 0909090909
+Email: VAN.P@gmail.com
+Người dùng 16:
+
+Tên: TRẦN THỊ Q
+Giới tính: Nữ
+Địa chỉ: SỐ 160, ĐƯỜNG PHẠM HÙNG, QUẬN NAM TỪ LIÊM
+Quận: NAM TỪ LIÊM
+Số điện thoại: 0912345678
+Email: THI.Q@gmail.com
+Người dùng 17:
+
+Tên: NGUYỄN VĂN S
+Giới tính: Nam
+Địa chỉ: SỐ 170, ĐƯỜNG TRẦN DUY HƯNG, QUẬN CẦU GIẤY
+Quận: CẦU GIẤY
+Số điện thoại: 0987123456
+Email: VAN.S@gmail.com
+Người dùng 18:
+
+Tên: LÊ THỊ T
+Giới tính: Nữ
+Địa chỉ: SỐ 180, ĐƯỜNG NGUYỄN CHÍ THANH, QUẬN ĐỐNG ĐA
+Quận: ĐỐNG ĐA
+Số điện thoại: 0909090909
+Email: THI.T@gmail.com
+Người dùng 19:
+
+Tên: HOÀNG VĂN U
+Giới tính: Nam
+Địa chỉ: SỐ 190, ĐƯỜNG HỒ TÙNG MẬU, QUẬN CẦU GIẤY
+Quận: CẦU GIẤY
+Số điện thoại: 0912345678
+Email: VAN.U@gmail.com
+Người dùng 20:
+
+Tên: PHẠM THỊ V
+Giới tính: Nữ
+Địa chỉ: SỐ 200, ĐƯỜNG TRẦN DUY HƯNG, QUẬN CẦU GIẤY
+Quận: CẦU GIẤY
+Số điện thoại: 0987123456
+Email: THI.V@gmail.com
+
+Tên: {"NGUYỄN VĂN A", "TRẦN THỊ B", "LÊ VĂN C", "NGUYỄN THỊ D", "PHẠM VĂN E", "TRẦN THỊ F", "HOÀNG VĂN G", "NGUYỄN THỊ H", "LÊ VĂN I", "PHẠM THỊ K", "TRẦN VĂN L", "NGUYỄN THỊ M", "LÊ VĂN N", "PHẠM THỊ O", "HOÀNG VĂN P", "TRẦN THỊ Q", "NGUYỄN VĂN S", "LÊ THỊ T", "HOÀNG VĂN U", "PHẠM THỊ V"}
+
+
+Giới tính: {"Nam", "Nữ", "Nam", "Nữ", "Nam", "Nữ", "Nam", "Nữ", "Nam", "Nữ", "Nam", "Nữ", "Nam", "Nữ", "Nam", "Nữ", "Nam", "Nữ", "Nam", "Nữ".}
+
+Địa chỉ:{"SỐ 10, ĐƯỜNG TRẦN DUY HƯNG, QUẬN CẦU GIẤY",
+"SỐ 20, ĐƯỜNG NGUYỄN CHÍ THANH, QUẬN ĐỐNG ĐA",
+"SỐ 30, ĐƯỜNG HAI BÀ TRƯNG, QUẬN HOÀN KIẾM",
+"SỐ 40, ĐƯỜNG LÁNG, QUẬN ĐỐNG ĐA",
+"SỐ 50, ĐƯỜNG NGUYỄN VĂN CỪ, QUẬN LONG BIÊN",
+"SỐ 60, ĐƯỜNG NGUYỄN TRÃI, QUẬN THANH XUÂN",
+"SỐ 70, ĐƯỜNG HỒ TÙNG MẬU, QUẬN CẦU GIẤY",
+"SỐ 80, ĐƯỜNG ĐỘI CẤN, QUẬN BA ĐÌNH",
+"SỐ 90, ĐƯỜNG PHẠM HÙNG, QUẬN NAM TỪ LIÊM",
+"SỐ 100, ĐƯỜNG NGUYỄN VĂN LINH, QUẬN HÀ ĐÔNG",
+"SỐ 110, ĐƯỜNG PHẠM HÙNG, QUẬN NAM TỪ LIÊM",
+"SỐ 120, ĐƯỜNG TRẦN DUY HƯNG, QUẬN CẦU GIẤY",
+"SỐ 130, ĐƯỜNG LÊ VĂN LƯƠNG, QUẬN THANH XUÂN",
+"SỐ 140, ĐƯỜNG NGUYỄN VĂN CỪ, QUẬN LONG BIÊN",
+"SỐ 150, ĐƯỜNG PHẠM HÙNG, QUẬN NAM TỪ LIÊM",
+"SỐ 160, ĐƯỜNG PHẠM HÙNG, QUẬN NAM TỪ LIÊM",
+"SỐ 170, ĐƯỜNG TRẦN DUY HƯNG, QUẬN CẦU GIẤY",
+"SỐ 180, ĐƯỜNG NGUYỄN CHÍ THANH, QUẬN ĐỐNG ĐA",
+"SỐ 190, ĐƯỜNG HỒ TÙNG MẬU, QUẬN CẦU GIẤY",
+"SỐ 200, ĐƯỜNG TRẦN DUY HƯNG, QUẬN CẦU GIẤY"}
+
+Quận: {"CẦU GIẤY", "ĐỐNG ĐA", "HOÀN KIẾM", "ĐỐNG ĐA", "LONG BIÊN", "THANH XUÂN", "CẦU GIẤY", "BA ĐÌNH", "NAM TỪ LIÊM", "HÀ ĐÔNG", "NAM TỪ LIÊM", "CẦU GIẤY", "THANH XUÂN", "LONG BIÊN", "NAM TỪ LIÊM", "NAM TỪ LIÊM", "CẦU GIẤY", "ĐỐNG ĐA", "CẦU GIẤY", "CẦU GIẤY"}
+
+SĐT: {"0987654321", "0123456789", "0909090909", "0912345678", "0987123456", "0909090909", "0912345678", "0987123456", "0909090909", "0912345678", "0987123456", "0909090909", "0912345678", "0987123456", "0909090909", "0912345678", "0987123456", "0909090909", "0912345678", "0987123456"}
+
+Email: {"VAN.A@gmail.com", "THI.B@gmail.com", "VAN.C@gmail.com", "THI.D@gmail.com", "VAN.E@gmail.com", "THI.F@gmail.com", "VAN.G@gmail.com", "THI.H@gmail.com", "VAN.I@gmail.com", "THI.K@gmail.com", "VAN.L@gmail.com", "THI.M@gmail.com", "VAN.N@gmail.com", "THI.O@gmail.com", "VAN.P@gmail.com", "THI.Q@gmail.com", "VAN.S@gmail.com", "THI.T@gmail.com", "VAN.U@gmail.com", "THI.V@gmail.com"}
+

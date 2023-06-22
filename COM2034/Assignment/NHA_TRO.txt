@@ -1,0 +1,193 @@
+Nhà trọ 1:
+
+Diện tích: 30
+Giá phòng: 3.000.000
+Địa chỉ: SỐ 10, ĐƯỜNG TRẦN DUY HƯNG, QUẬN CẦU GIẤY
+Quận: CẦU GIẤY
+Mô tả: PHÒNG TRỌ MỚI XÂY, THOÁNG MÁT, CÓ BAN CÔNG
+Ngày đăng tin: 10/05/2022
+Nhà trọ 2:
+
+Diện tích: 25
+Giá phòng: 2.500.000
+Địa chỉ: SỐ 20, ĐƯỜNG NGUYỄN CHÍ THANH, QUẬN ĐỐNG ĐA
+Quận: ĐỐNG ĐA
+Mô tả: PHÒNG TRỌ TIỆN NGHI, GẦN TRƯỜNG HỌC VÀ CHỢ
+Ngày đăng tin: 15/07/2022
+Nhà trọ 3:
+
+Diện tích: 35
+Giá phòng: 3.500.000
+Địa chỉ: SỐ 30, ĐƯỜNG HAI BÀ TRƯNG, QUẬN HOÀN KIẾM
+Quận: HOÀN KIẾM
+Mô tả: PHÒNG TRỌ CÓ NỘI THẤT ĐẦY ĐỦ, GẦN KHU TRUNG TÂM THÀNH PHỐ
+Ngày đăng tin: 20/09/2022
+Nhà trọ 4:
+
+Diện tích: 28
+Giá phòng: 2.800.000
+Địa chỉ: SỐ 40, ĐƯỜNG LÁNG, QUẬN ĐỐNG ĐA
+Quận: ĐỐNG ĐA
+Mô tả: PHÒNG TRỌ MỚI XÂY, AN NINH TỐT, GẦN BẾN XE VÀ TRƯỜNG HỌC
+Ngày đăng tin: 05/11/2022
+Nhà trọ 5:
+
+Diện tích: 32
+Giá phòng: 3.200.000
+Địa chỉ: SỐ 50, ĐƯỜNG NGUYỄN VĂN CỪ, QUẬN LONG BIÊN
+Quận: LONG BIÊN
+Mô tả: PHÒNG TRỌ SẠCH SẼ, YÊN TĨNH, GẦN GIAO THÔNG THUẬN TIỆN
+Ngày đăng tin: 10/01/2023
+Nhà trọ 6:
+
+Diện tích: 40
+Giá phòng: 4.000.000
+Địa chỉ: SỐ 60, ĐƯỜNG NGUYỄN TRÃI, QUẬN THANH XUÂN
+Quận: THANH XUÂN
+Mô tả: PHÒNG TRỌ RỘNG RÃI, GẦN CÔNG VIÊN VÀ SIÊU THỊ
+Ngày đăng tin: 25/03/2023
+Nhà trọ 7:
+
+Diện tích: 30
+Giá phòng: 3.200.000
+Địa chỉ: SỐ 70, ĐƯỜNG NGUYỄN KHUYẾN, QUẬN TÂY HỒ
+Quận: TÂY HỒ
+Mô tả: PHÒNG TRỌ GẦN HỒ TÂY, VIEW ĐẸP, AN NINH 24/7
+Ngày đăng tin: 05/05/2023
+Nhà trọ 8:
+
+Diện tích: 28
+Giá phòng: 2.800.000
+Địa chỉ: SỐ 80, ĐƯỜNG PHẠM HÙNG, QUẬN NAM TỪ LIÊM
+Quận: NAM TỪ LIÊM
+Mô tả: PHÒNG TRỌ MỚI XÂY, GẦN TRƯỜNG ĐẠI HỌC, KTX SINH VIÊN
+Ngày đăng tin: 10/07/2023
+Nhà trọ 9:
+
+Diện tích: 35
+Giá phòng: 3.500.000
+Địa chỉ: SỐ 90, ĐƯỜNG LÊ ĐẠI HÀNH, QUẬN HAI BÀ TRƯNG
+Quận: HAI BÀ TRƯNG
+Mô tả: PHÒNG TRỌ GẦN BỆNH VIỆN, GIAO THÔNG THUẬN TIỆN
+Ngày đăng tin: 15/09/2023
+Nhà trọ 10:
+
+Diện tích: 32
+Giá phòng: 3.200.000
+Địa chỉ: SỐ 100, ĐƯỜNG NGUYỄN KHÁNH TOÀN, QUẬN CẦU GIẤY
+Quận: CẦU GIẤY
+Mô tả: PHÒNG TRỌ MỚI XÂY, TIỆN NGHI ĐẦY ĐỦ, GẦN SIÊU THỊ
+Ngày đăng tin: 20/11/2023
+Nhà trọ 11:
+
+Diện tích: 30
+Giá phòng: 3.000.000
+Địa chỉ: SỐ 110, ĐƯỜNG LÊ VĂN LƯƠNG, QUẬN THANH XUÂN
+Quận: THANH XUÂN
+Mô tả: PHÒNG TRỌ MỚI XÂY, GẦN CÔNG VIÊN, TRƯỜNG HỌC
+Ngày đăng tin: 25/01/2023
+Nhà trọ 12:
+
+Diện tích: 25
+Giá phòng: 2.500.000
+Địa chỉ: SỐ 120, ĐƯỜNG NGUYỄN TRÃI, QUẬN HÀ ĐÔNG
+Quận: HÀ ĐÔNG
+Mô tả: PHÒNG TRỌ SẠCH SẼ, GẦN CHỢ, GIAO THÔNG THUẬN TIỆN
+Ngày đăng tin: 05/03/2023
+Nhà trọ 13:
+
+Diện tích: 35
+Giá phòng: 3.500.000
+Địa chỉ: SỐ 130, ĐƯỜNG TRẦN PHÚ, QUẬN BA ĐÌNH
+Quận: BA ĐÌNH
+Mô tả: PHÒNG TRỌ CÓ GÁC, GẦN BỆNH VIỆN, TRƯỜNG ĐẠI HỌC
+Ngày đăng tin: 10/05/2023
+Nhà trọ 14:
+
+Diện tích: 28
+Giá phòng: 2.800.000
+Địa chỉ: SỐ 140, ĐƯỜNG HOÀNG QUỐC VIỆT, QUẬN CẦU GIẤY
+Quận: CẦU GIẤY
+Mô tả: PHÒNG TRỌ MỚI XÂY, GẦN SIÊU THỊ, BỆNH VIỆN
+Ngày đăng tin: 15/07/2023
+Nhà trọ 15:
+
+Diện tích: 32
+Giá phòng: 3.200.000
+Địa chỉ: SỐ 150, ĐƯỜNG PHẠM VĂN ĐỒNG, QUẬN THANH TRÌ
+Quận: THANH TRÌ
+Mô tả: PHÒNG TRỌ GẦN CHỢ, GIAO THÔNG THUẬN TIỆN
+Ngày đăng tin: 20/09/2023
+Nhà trọ 16:
+
+Diện tích: 30
+Giá phòng: 3.000.000
+Địa chỉ: SỐ 160, ĐƯỜNG NGUYỄN VĂN LINH, QUẬN HÀ ĐÔNG
+Quận: HÀ ĐÔNG
+Mô tả: PHÒNG TRỌ MỚI XÂY, GẦN TRƯỜNG ĐẠI HỌC, CHỢ
+Ngày đăng tin: 05/11/2023
+Nhà trọ 17:
+
+Diện tích: 35
+Giá phòng: 3.500.000
+Địa chỉ: SỐ 170, ĐƯỜNG NGUYỄN ĐÌNH CHIỂU, QUẬN HAI BÀ TRƯNG
+Quận: HAI BÀ TRƯNG
+Mô tả: PHÒNG TRỌ GẦN TRƯỜNG CAO ĐẲNG, SIÊU THỊ
+Ngày đăng tin: 10/01/2024
+Nhà trọ 18:
+
+Diện tích: 28
+Giá phòng: 2.800.000
+Địa chỉ: SỐ 180, ĐƯỜNG LÊ THANH NGHỊ, QUẬN ĐỐNG ĐA
+Quận: ĐỐNG ĐA
+Mô tả: PHÒNG TRỌ MỚI XÂY, GẦN CÔNG VIÊN, TRƯỜNG HỌC
+Ngày đăng tin: 15/03/2024
+Nhà trọ 19:
+
+Diện tích: 32
+Giá phòng: 3.200.000
+Địa chỉ: SỐ 190, ĐƯỜNG ĐỀ THÁM, QUẬN BA ĐÌNH
+Quận: BA ĐÌNH
+Mô tả: PHÒNG TRỌ GẦN CÔNG VIÊN, BỆNH VIỆN
+Ngày đăng tin: 20/05/2024
+Nhà trọ 20:
+
+Diện tích: 30
+Giá phòng: 3.000.000
+Địa chỉ: SỐ 200, ĐƯỜNG NGUYỄN TRÃI, QUẬN HÀ ĐÔNG
+Quận: HÀ ĐÔNG
+Mô tả: PHÒNG TRỌ GẦN TRƯỜNG ĐẠI HỌC, BỆNH VIỆN
+Ngày đăng tin: 25/07/2024
+
+DIENTICH: {30, 25, 35, 28, 32, 40, 30, 28, 35, 32, 30, 25, 35, 28, 32, 30}
+
+GIAPHONG: {3.000.000, 2.500.000, 3.500.000, 2.800.000, 3.200.000, 4.000.000, 3.200.000, 2.800.000, 3.500.000, 3.200.000, 3.000.000, 2.500.000, 3.500.000, 2.800.000, 3.200.000, 3.000.000, 3.500.000, 2.800.000, 3.200.000, 3.000.000}
+
+DIACHI: {"SỐ 10, DUONG TRAN DUY HUNG, QUAN CAU GIAY",
+"SỐ 20, DUONG NGUYEN CHI THANH, QUAN DONG DA",
+"SỐ 30, DUONG HAI BA TRUNG, QUAN HOAN KIEM",
+"SỐ 40, DUONG LANG, QUAN DONG DA",
+"SỐ 50, DUONG NGUYEN VAN CU, QUAN LONG BIEN",
+"SỐ 60, DUONG NGUYEN TRAI, QUAN THANH XUAN",
+"SỐ 70, DUONG NGUYEN KHUYEN, QUAN TAY HO",
+"SỐ 80, DUONG PHAM HUNG, QUAN NAM TU LIEM",
+"SỐ 90, DUONG LE DAI HANH, QUAN HAI BA TRUNG",
+"SỐ 100, DUONG NGUYEN KHANH TOAN, QUAN CAU GIAY",
+"SỐ 110, DUONG LE VAN LUONG, QUAN THANH XUAN",
+"SỐ 120, DUONG NGUYEN TRAI, QUAN HA DONG",
+"SỐ 130, DUONG TRAN PHU, QUAN BA DINH",
+"SỐ 140, DUONG HOANG QUOC VIET, QUAN CAU GIAY",
+"SỐ 150, DUONG PHAM VAN DONG, QUAN THANH TRI",
+"SỐ 160, DUONG NGUYEN VAN LINH, QUAN HA DONG",
+"SỐ 170, DUONG NGUYEN DINH CHIEU, QUAN HAI BA TRUNG",
+"SỐ 180, DUONG LE THANH NGHI, QUAN DONG DA",
+"SỐ 190, DUONG DE THAM, QUAN BA DINH",
+"SỐ 200, DUONG NGUYEN TRAI, QUAN HA DONG"}
+
+QUAN: {"CAU GIAY", "DONG DA", "HOAN KIEM", "DONG DA", "LONG BIEN", "THANH XUAN", "TAY HO", "NAM TU LIEM", "HAI BA TRUNG", "DONG DA", "LONG BIEN", "THANH XUAN", "CAU GIAY", "HA DONG", "BA DINH", "THANH TRI", "DONG DA", "HAI BA TRUNG", "DONG DA", "HA DONG"}
+MOTA: {"PHONG TRO MOI XAY, THOANG MAT, CO BAN CONG", "PHONG TRO TIEN NGHI, GAN TRUONG HOC VA CHO", "PHONG TRO CO NOI THAT DAY DU, GAN KHU TRUNG TAM THANH PHO", "PHONG TRO MOI XAY, AN NINH TOT, GAN BEN XE VA TRUONG HOC", "PHONG TRO SACH SE, YEN TINH, GAN GIAO THONG THUAN TIEN", "PHONG TRO RONG RAI, GAN CONG VIEN VA SIEU THI", "PHONG TRO GAN HO TAY, VIEW DEP, AN NINH 24/7", "PHONG TRO MOI XAY, GAN TRUONG DAI HOC, KTX SINH VIEN", "PHONG TRO GAN BENH VIEN, GIAO THONG THUAN TIEN", "PHONG TRO MOI XAY, TIEN NGHI DAY DU, GAN SIEU THI", "PHONG TRO MOI XAY, GAN CONG VIEN, TRUONG HOC", "PHONG TRO SACH SE, GAN CHO, GIAO THONG THUAN TIEN", "PHONG TRO CO GAC, GAN BENH VIEN, TRUONG DAI HOC", "PHONG TRO MOI XAY, GAN SIEU THI, BENH VIEN", "PHONG TRO GAN CHO, GIAO THONG THUAN TIEN", "PHONG TRO MOI XAY, GAN TRUONG DAI HOC, CHO", "PHONG TRO GAN TRUONG CAO DANG, SIEU THI", "PHONG TRO MOI XAY, GAN CONG VIEN, TRUONG HOC", "PHONG TRO GAN CONG VIEN, BENH VIEN", "PHONG TRO GAN TRUONG DAI HOC, BENH VIEN"}
+Ngày đăng tin: {"2022-05-10", "2022-07-15", "2022-09-20", "2022-11-05", "2023-01-10", "2023-03-25", "2023-05-05", "2023-07-10", "2023-09-15", "2023-11-20", "2023-01-25", "2023-03-05", "2023-05-10", "2023-07-15", "2023-09-20", "2023-11-05", "2024-01-10", "2024-03-15", "2024-05-20", "2024-07-25"}
+
+ID_NHATRO: {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"}
+ID_LOAINHA: {"1", "3", "2", "4", "5"}
+ID_NGUOIDUNG: {"15", "3", "12", "19", "5", "7", "1", "18", "4", "10", "13", "11", "9", "8", "20", "2", "17", "6", "16", "14"}

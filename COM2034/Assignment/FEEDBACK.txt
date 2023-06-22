@@ -1,0 +1,102 @@
+Nhà trọ 1:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: PHÒNG RỘNG RÃI, GIÁ CẢ PHẢI CHĂNG
+Nhà trọ 2:
+
+Like/Dislike: DISLIKE
+Nội dung đánh giá: PHÒNG HẸP HÒI, GIÁ HƠI CAO SO VỚI DIỆN TÍCH
+Nhà trọ 3:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: ĐỊA CHỈ THUẬN TIỆN, PHÒNG SẠCH SẼ
+Nhà trọ 4:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: GIÁ CẢ PHÙ HỢP, GẦN CÔNG VIÊN
+Nhà trọ 5:
+
+Like/Dislike: DISLIKE
+Nội dung đánh giá: PHÒNG THIẾU ÁNH SÁNG, ĐỊA CHỈ HƠI XA
+Nhà trọ 6:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: PHÒNG RỘNG RÃI, GẦN CÔNG VIÊN VÀ SIÊU THỊ
+Nhà trọ 7:
+
+Like/Dislike: DISLIKE
+Nội dung đánh giá: GIÁ CAO SO VỚI DIỆN TÍCH, KHÔNG CÓ CHỖ ĐỂ XE
+Nhà trọ 8:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: PHÒNG TRỌ MỚI XÂY, GẦN TRƯỜNG ĐẠI HỌC, KTX SINH VIÊN
+Nhà trọ 9:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: PHÒNG TRỌ GẦN BỆNH VIỆN, GIAO THÔNG THUẬN TIỆN
+Nhà trọ 10:
+
+Like/Dislike: DISLIKE
+Nội dung đánh giá: GIÁ CAO SO VỚI TIỆN NGHI, KHÔNG CÓ INTERNET
+Nhà trọ 11:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: PHÒNG TRỌ MỚI XÂY, GẦN CÔNG VIÊN, TRƯỜNG HỌC
+Nhà trọ 12:
+
+Like/Dislike: DISLIKE
+Nội dung đánh giá: GIÁ PHÒNG CAO, ĐỊA CHỈ KHÔNG TIỆN LỢI
+Nhà trọ 13:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: PHÒNG TRỌ CÓ GÁC, GẦN BỆNH VIỆN, TRƯỜNG ĐẠI HỌC
+Nhà trọ 14:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: PHÒNG TRỌ MỚI XÂY, GẦN SIÊU THỊ, BỆNH VIỆN
+Nhà trọ 15:
+
+Like/Dislike: DISLIKE
+Nội dung đánh giá: GIÁ PHÒNG CAO, KHÔNG CÓ CHỖ ĐỂ XE
+Nhà trọ 16:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: PHÒNG TRỌ MỚI XÂY, GẦN TRƯỜNG ĐẠI HỌC, CHỢ
+Nhà trọ 17:
+
+Like/Dislike: DISLIKE
+Nội dung đánh giá: GIÁ PHÒNG KHÔNG HỢP LÝ, KHÔNG CÓ INTERNET
+Nhà trọ 18:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: PHÒNG TRỌ MỚI XÂY, GẦN CÔNG VIÊN, TRƯỜNG HỌC
+Nhà trọ 19:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: PHÒNG TRỌ GẦN CÔNG VIÊN, BỆNH VIỆN
+Nhà trọ 20:
+
+Like/Dislike: LIKE
+Nội dung đánh giá: PHÒNG TRỌ GẦN TRƯỜNG ĐẠI HỌC, BỆNH VIỆN
+
+
+
+"PHÒNG RỘNG RÃI, GIÁ CẢ PHẢI CHĂNG", "LIKE"
+"PHÒNG HẸP HÒI, GIÁ HƠI CAO VỚI DIỆN TÍCH", "DISLIKE"
+"ĐỊA CHỈ THUẬN TIỆN, PHÒNG SẠCH SẼ", "LIKE"
+"GIÁ CẢ PHÙ HỢP, GẦN CÔNG VIÊN", "LIKE"
+"PHÒNG THIẾU ÁNH SÁNG, ĐỊA CHỈ HƠI XA", "DISLIKE"
+"PHÒNG RỘNG RÃI, GẦN CÔNG VIÊN VÀ SIÊU THỊ", "LIKE"
+"GIÁ CAO VỚI DIỆN TÍCH, KHÔNG CÓ CHỖ ĐỂ XE", "DISLIKE"
+"PHÒNG TRỌ MỚI XÂY, GẦN TRƯỜNG ĐẠI HỌC, KTX SINH VIÊN", "LIKE"
+"PHÒNG TRỌ GẦN BỆNH VIỆN, GIAO THÔNG THUẬN TIỆN", "LIKE"
+"GIÁ CAO VỚI TIỆN NGHI, KHÔNG CÓ INTERNET", "DISLIKE"
+"PHÒNG TRỌ MỚI XÂY, GẦN CÔNG VIÊN, TRƯỜNG HỌC", "LIKE"
+"GIÁ PHÒNG CAO, ĐỊA CHỈ KHÔNG TIỆN LỢI", "DISLIKE"
+"PHÒNG TRỌ CÓ GÁC, GẦN BỆNH VIỆN, TRƯỜNG ĐẠI HỌC", "LIKE"
+"PHÒNG TRỌ MỚI XÂY, GẦN SIÊU THỊ, BỆNH VIỆN", "LIKE"
+"GIÁ PHÒNG CAO, KHÔNG CÓ CHỖ ĐỂ XE", "DISLIKE"
+"PHÒNG TRỌ MỚI XÂY, GẦN TRƯỜNG ĐẠI HỌC, CHỢ", "LIKE"
+"GIÁ PHÒNG KHÔNG HỢP LÝ, KHÔNG CÓ INTERNET", "DISLIKE"
+"PHÒNG TRỌ MỚI XÂY, GẦN CÔNG VIÊN, TRƯỜNG HỌC", "LIKE"
+"PHÒNG TRỌ GẦN CÔNG VIÊN, BỆNH VIỆN", "LIKE"

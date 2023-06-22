@@ -1,0 +1,5 @@
+Loại nhà trọ "Căn hộ chung cư"
+Loại nhà trọ "Nhà riêng"
+Loại nhà trọ "Phòng trọ kín"
+Loại nhà trọ "Căn hộ mini"
+Loại nhà trọ "Phòng trọ chung"

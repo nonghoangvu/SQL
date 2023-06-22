@@ -1,0 +1,14 @@
+Câu 1: Tạo cơ sở dữ liệu NHAMAY gồm 3 bảng.
+ - PHONG(MaPHG, TenPHG, NamBatDau)
+- CONGNHAN (MaNV, HoTen, NgaySinh, Gioitinh)
+ - KHENTHUONG(MaNV, MaPHG, SoTien)
+
+Câu 2: Chèn thông tin vào các bảng.
+- Tạo Stored Procedure (SP) với các tham số đầu vào phù hợp với PHONG, CONGNHAN, KHENTHUONG
+- Yêu cầu mỗi SP phải kiểm tra tham số đầu vào. Với các cột không chấp nhận thuộc tính Null. Với mỗi SP viết 3 lời gọi thành công.
+
+Câu 3: Viết hàm trả về MaNV thỏa mãn các giá trị được truyền tham số.
+
+Câu 4: Tạo view lưu thong tin của top 2 có giá trị tổng số tiền lớn nhất gồm các thông tin sau: MaNV, HoTen, TongSoTien.
+
+Câu 5: Viết một SP nhận một tham số đầu vào là tongTien. SP này thực hiện thao tác xóa thông tin CONGNHAN và KHENTHUONG nếu tổng SOTien > giá trrij tham số được truyền vào.
